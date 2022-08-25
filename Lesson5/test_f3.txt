@@ -1,0 +1,11 @@
+Ivanov 23000
+Petrov 48500.00
+Sidorov 17386.00
+Vinnipuhoff 11000.30
+Pytochkoff 54000.00
+Oslikoff 56032.30
+Sovoff 9210.00
+Krolikoff 32987.70
+Pchelkinn 16350.00
+Duboff 98303.70
+Gunoff 22222.22
